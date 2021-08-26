@@ -7,6 +7,13 @@
     <groupId>com.gtbr</groupId>
     <artifactId>via-cep</artifactId>
     <version>1.0.0</version>
+    <developers>
+        <developer>
+            <name>Thalles Tavares</name>
+            <email>Granmilk_gt@hotmail.com</email>
+            <url>https://github.com/Granmilk</url>
+        </developer>
+    </developers>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
