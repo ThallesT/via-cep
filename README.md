@@ -1,3 +1,5 @@
+[![Maven Package](https://github.com/ThallesT/via-cep/actions/workflows/maven-publish.yml/badge.svg)](https://github.com/ThallesT/via-cep/actions/workflows/maven-publish.yml)
+
 # VIA-CEP API
 
 > Uma api para projetos java 11+ com repositorio publico para que os artefatos sejam importados.
