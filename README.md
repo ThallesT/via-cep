@@ -62,7 +62,7 @@ public static void main(String[] args){
 
 
 ## 📫 Contribuindo para o projeto
-Para contribuir com <nome_do_projeto>, siga estas etapas:
+Para contribuir com essa api, siga estas etapas:
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <nome_branch>`.
@@ -72,4 +72,5 @@ Para contribuir com <nome_do_projeto>, siga estas etapas:
    
 
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
-#Escreva testes de unidade
+
+## Escreva testes de unidade
